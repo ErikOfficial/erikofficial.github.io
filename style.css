@@ -66,6 +66,7 @@ nav ul li a:hover  {
 
 section {
      margin: auto;
+     padding-top: 50px;
      display: flex;
      margin-bottom: 50px;
 }
@@ -133,6 +134,7 @@ a.tbl-pink:hover {
 
 .gambarhiro {
     padding-left: 20px;
+    padding-top: 35px;
     margin-left: 20px;
 }
 
